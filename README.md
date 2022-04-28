@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://wakatime.com/share/@32eb50dd-eea7-4883-8349-298accb92677/71cb70c1-65f1-444c-ad0c-0a149202edb8.svg"height= 300></img>
   <img src="https://wakatime.com/share/@32eb50dd-eea7-4883-8349-298accb92677/500e3925-7a9a-4b00-afed-a867410bea12.svg" height= 300></img>
+  <figure><embed src="https://wakatime.com/share/@5817f213-e848-4fbd-bad5-83fb21d8f205/309e8f28-a616-4584-bd7d-9ffd3cdf605e.svg"></embed></figure>
