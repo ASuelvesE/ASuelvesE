@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   </a> 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ASuelvesE&theme=vue&layout=compact">
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASuelvesE&theme=vue&layout=compact" height="175"/>
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASuelvesE&theme=vue&layout=compact" height="175"/>
   </a> 
 </p>
 
