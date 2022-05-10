@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=ASuelvesE&show_icons=true&theme=vue" height="175" alt="ASuelvesE"/>
   </a> 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ASuelvesE&theme=vue&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASuelvesE&theme=vue&layout=compact" height="175"/>
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASuelvesE&theme=vue&layout=compact" height="175"/>
   </a> 
 </p>
 
