@@ -2,13 +2,14 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 2am UTC
     - cron: "*/2 * * * *"
 jobs:
   update-readme:
-    permissions: write-all
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
     - name: Badges - Readme
       uses: ASuelvesE/badge-readme@main
+      with:       
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        BADGE_SIZE: 100
