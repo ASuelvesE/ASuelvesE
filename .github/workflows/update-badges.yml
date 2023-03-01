@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "55 13 * * *"
+    - cron: "2 14 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
