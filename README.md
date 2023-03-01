@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 🏅Certified in:
 
 <!--START_SECTION:badges-->
-
 <!--END_SECTION:badges-->
 
 <h2 align="center">Mi Actividad</h2>
