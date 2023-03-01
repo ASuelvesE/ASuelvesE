@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Oracle Certified Foundations Associate, Java](https://images.credly.com/size/100x100/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png)](http://www.credly.com/badges/3029c59d-f8d1-4a2b-88f5-b9239a7054f7 "Oracle Certified Foundations Associate, Java")
 <!--END_SECTION:badges-->
 
-<h2 align="center">Mi Actividad</h2>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=ASuelvesE&show_icons=true&theme=vue">
