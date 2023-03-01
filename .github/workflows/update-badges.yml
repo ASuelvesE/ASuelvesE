@@ -12,6 +12,5 @@ jobs:
     - name: Badges - Readme
       uses: ASuelvesE/badge-readme@main
       with:       
-        CREDLY_USER: asuelvese # optional, but default will use the same from github
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         BADGE_SIZE: 100
