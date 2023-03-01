@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🏅Certified in:
+- Oracle Java ☕ Foundations Associate[^1]
+
+[^1]:https://www.credly.com/badges/3029c59d-f8d1-4a2b-88f5-b9239a7054f7
+
 
 <h2 align="center">Mi Actividad</h2>
 
