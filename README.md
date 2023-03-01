@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 🏅Certified in:
 
----
-<!-- .element: data-background-iframe="https://www.credly.com/badges/3029c59d-f8d1-4a2b-88f5-b9239a7054f7/public_url" -->
----
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
