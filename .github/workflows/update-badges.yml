@@ -6,6 +6,7 @@ on:
     - cron: "*/2 * * * *"
 jobs:
   update-readme:
+    permissions: write-all
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
