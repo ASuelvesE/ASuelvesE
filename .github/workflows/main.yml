@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "45 13 * * *"
+    - cron: "48 13 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -13,4 +13,4 @@ jobs:
         uses: angel-suelves-estrada/badge-readme@main
         with:       
           CREDLY_USER: <angel-suelves-estrada> # optional, but default will use the same from github
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
