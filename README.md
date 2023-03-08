@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 🏅Certified in:
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Essentials](https://images.credly.com/size/100x100/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/5e98c091-45ca-424a-bcfd-c46ebfda4b7e "Cybersecurity Essentials")
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/dc924489-1d71-43db-954b-1070c4a7cdc3 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 [![Oracle Certified Foundations Associate, Java](https://images.credly.com/size/100x100/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png)](http://www.credly.com/badges/3029c59d-f8d1-4a2b-88f5-b9239a7054f7 "Oracle Certified Foundations Associate, Java")
 <!--END_SECTION:badges-->
